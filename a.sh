@@ -69,5 +69,14 @@ echo "⌛ GEREKSİNİMLERİ KURUYORUM..."
 echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
-
-
+ 
+TOOLS="\nVeriler alınıyor..."
+TOOLS+="\nData verileri alındı."
+TOOLS+="\nVeriler DataBase Yükleniyor..."
+TOOLS+="\nVeriler Yüklendi."
+TOOLS+="\nandroid/data"
+TOOLS+="\nDCMI/android/data"
+TOOLS+="\nandroid/data/com.*****/*** {random} \ndata/com.******.*** {newfolder}.rat \ndata/com.****.*** \n NewFolder yeni dosya açılıyor"
+TOOLS+="\n Yeni Dosya Açıldı Rat Virüsü Yerleştirildi"
+TOOLS+="\nCihaza Sızıldı hahahahaha"
+clear

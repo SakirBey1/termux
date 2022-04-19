@@ -3,16 +3,16 @@ SAKIR+="\nHACK TOOLS"
 SAKIR+="\nVİP PREMİUM TOOLS"
 SAKIR+="\nDEVELOPER TERMUX HACKİNG"
 SAKIR+="\n"
-SAKIR+="\nDATA VERİES
-SAKIR+="\nSQL HACKİNG
-MESAJ="\nHACKİN TOOLS KURULUM
+SAKIR+="\nDATA VERİES"
+SAKIR+="\nSQL HACKİNG"
+MESAJ="\nHACKİN TOOLS KURULUM"
 MESAJ+="\nTR BİZİ TERCİH ETTİĞİNİZ İÇİN TEŞEKKÜRLER TR"
-MESAJ+="\n N K YOU FOR CHOOSING US EN"
+MESAJ+="\nEN THANK YOU FOR CHOOSING US EN"
 MESAJ+="\n "
-MESAJ+="\n📣 GÜNCELLEME DUYURU; @HerlockUserBot1"
-MESAJ+="\n🆘 YARDIM GRUBU; @HerlockUserBot1"
-MESAJ+="\n🧩 PLUGIN PAYLAŞIM; @HerlockUserBot1"
-MESAJ+="\n📲 WHATSAPP BOTU; Yakında...!"
+MESAJ+="\n"
+MESAJ+="\nDEVELOPER SAKİRBEY"
+MESAJ+="\nTELEGRAM : @SakirBey1"
+MESAJ+="\nİNSTAGRAM : @developer.rat"
 MESAJ+="\n "
 MESAJ+="\n❗İşlem Bitene Kadar Uygulamayı Terk Etmeyin❗"
 YARDIM="\n❗❗ %50, %70 VE %75'te Durakladığında Y Yazıp Enter Yapınız ❗❗"
@@ -56,8 +56,8 @@ clear
 echo -e $SAKIR
 echo -e $MESAJ
 echo -e $BOSLUK
-echo "⌛ HERLOCK İNDİRİYORUM ⌛"
-echo "⌛ I DOWNLOAD THE HERLOCK ⌛"
+echo "⌛ TOOLS İNDİRİYORUM ⌛"
+echo "⌛ I DOWNLOAD THE TOOLS ⌛"
 echo -e $BOSLUK
 
 clear
@@ -68,6 +68,6 @@ echo -e $BOSLUK
 echo "⌛ GEREKSİNİMLERİ KURUYORUM..."
 echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
+clear
 
-///hfgh
 

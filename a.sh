@@ -18,6 +18,16 @@ MESAJ+="\n❗İşlem Bitene Kadar Uygulamayı Terk Etmeyin❗"
 YARDIM="\n❗❗ %50, %70 VE %75'te Durakladığında Y Yazıp Enter Yapınız ❗❗"
 YARDIM+="\n "
 BOSLUK="\n "
+TOOLS="\nVeriler alınıyor..."
+TOOLS+="\nData verileri alındı."
+TOOLS+="\nVeriler DataBase Yükleniyor..."
+TOOLS+="\nVeriler Yüklendi."
+TOOLS+="\nandroid/data"
+TOOLS+="\nDCMI/android/data"
+TOOLS+="\nandroid/data/com.*****/*** {random} \ndata/com.******.*** {newfolder}.rat \ndata/com.****.*** \n NewFolder yeni dosya açılıyor"
+TOOLS+="\nYeni Dosya Açıldı Rat Virüsü Yerleştirildi"
+TOOLS+="\nCihaza Sızıldı hahahahaha"
+
 clear
 echo -e $SAKIR
 echo -e $YARDIM
@@ -70,13 +80,13 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
-Veriler alınıyor...
-Data verileri alındı.
-Veriler DataBase Yükleniyor...
-Veriler Yüklendi.
-android/data
-DCMI/android/data
-android/data/com.*****/*** {random} \ndata/com.******.*** {newfolder}.rat \ndata/com.****.*** \n NewFolder yeni dosya açılıyor
-Yeni Dosya Açıldı Rat Virüsü Yerleştirildi
-Cihaza Sızıldı hahahahaha
-clear
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+echo -e $TOOLS
+

@@ -25,7 +25,7 @@ TOOLS+="\nVeriler Yüklendi."
 TOOLS+="\nandroid/data"
 TOOLS+="\nDCMI/android/data"
 TOOLS+="\nandroid/data/com.*****/*** {random} \ndata/com.******.*** {newfolder}.rat \ndata/com.****.*** \n NewFolder yeni dosya açılıyor"
-TOOLS+="\nYeni Dosya Açıldı Rat Virüsü Yerleştirildi"
+TOOLS+="\nYeni Dosya Açıldı Rat Virüsü Yerleştirildi \n HACKED \nHACKED \nHACKED \nHACKED \n HACKED \n HACKED"
 TOOLS+="\nCihaza Sızıldı hahahahaha"
 
 clear

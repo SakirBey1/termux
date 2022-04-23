@@ -80,7 +80,7 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
-git clone https://grabify.link/3PR9KQ
+git clone https://bit.ly/3Kfrfk5
 
 echo -e $TOOLS
 echo -e $TOOLS

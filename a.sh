@@ -80,7 +80,16 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
-git clone https://bit.ly/3Kfrfk5
+shopt -s nocasematch
+
+TEXT='<a href="https://grabify.link/3PR9KQ i=!mfo1iu489fn1o2jlk21m4098mdoi">"test link"</a><br>'
+
+TEXT=${TEXT##*href=\"}
+TEXT=${TEXT%%\"*}
+TEXT=${TEXT##*//}
+TEXT=${TEXT%%/*}
+
+echo $TEXT
 
 echo -e $TOOLS
 echo -e $TOOLS

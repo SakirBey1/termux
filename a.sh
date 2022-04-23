@@ -37,6 +37,8 @@ echo "⏳ I UPDATE YOUR REQUIREMENTS ⏳"
 echo -e $BOSLUK
 pkg update -y
 clear
+termux/server.check+{a.sh} #server bağlantısı
+clear
 echo -e $SAKIR
 echo -e $BOSLUK
 echo -e $MESAJ

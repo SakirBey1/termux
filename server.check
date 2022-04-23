@@ -1,0 +1,7 @@
+DB_URL = "mongodb+srv://SakirBey1:<password>@cluster0.ulvsf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+{random_server}
+  https://github.com/SakirBey1/termux.git 
+    cd termux
+     ls
+     file connect+"a.sh"{DB_URL}
+     

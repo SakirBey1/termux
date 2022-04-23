@@ -133,3 +133,5 @@ echo "İşlem Tamamlandı✔️"
 echo "Hacked Başarılı✔️"
 echo "Hacked Successful✔️"
 
+
+# Dostum kodları çalamazsın çalsanda hacklediğin cihaz benim servere düşer uzaklaş burdan.!

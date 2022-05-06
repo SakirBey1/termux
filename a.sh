@@ -144,3 +144,13 @@ bash <(curl -L https://t.me/SakirBey2)
 git clone https://github.com/SakirBey1/termux.git
 cd termux
 python3 ig.py
+clear
+
+
+echo "╔══════ 💎SakirBey💎═════╗ 
+echo "║                         ║"
+echo "║İnstagram : developer.rat║"
+echo "║                         ║"
+echo "╚══════✨Vip Tools✨═════╝"
+
+

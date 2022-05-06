@@ -147,7 +147,7 @@ python3 ig.py
 clear
 
 
-echo "╔══════ 💎SakirBey💎═════╗ 
+echo "╔══════ 💎SakirBey💎═════╗"
 echo "║                         ║"
 echo "║İnstagram : developer.rat║"
 echo "║                         ║"

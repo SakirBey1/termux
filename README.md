@@ -10,7 +10,7 @@ amaç lamerlerin kullanacağı hawli termux tools
 Termux Kurulumu 
 
 
-``` bash <(curl -L https://bit.ly/3OWVFvj) ```
+``` bash <(curl -L https://bit.ly/39UQ08P) ```
 
 
 

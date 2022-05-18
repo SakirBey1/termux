@@ -14,5 +14,4 @@ Termux Kurulumu
 
 
 
-<i class="fab fa-instagram"></i>
 

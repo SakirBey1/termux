@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open('https://t.me/SakirBey1')
+webbrowser.open('https://instagram.com/developer.rat')

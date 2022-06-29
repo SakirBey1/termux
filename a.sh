@@ -132,7 +132,7 @@ echo "\033[32mHacked Successful✔️\033[0m"
 
 echo "\033[32m╔══════ 💎SakirBey💎═════╗\033[0m"
 echo "\033[32m║                         ║\033[0m"
-echo "\033[32m║İnstagram : developer.rat║\033[0m"
+echo "\033[32m║İnstagram : sakirberyy01 ║\033[0m"
 echo "\033[32m║                         ║\033[0m"
 echo "\033[32m╚══════✨Vip Tools✨═════╝\033[0m"
 

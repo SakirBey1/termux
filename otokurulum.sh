@@ -1,7 +1,9 @@
 git clone https://github.com/SakirBey1/termux.git
 
-cd termux
+clear
 
 pip install -r requirements.txt
+
+clear
 
 python3 TelegramTagger.py
